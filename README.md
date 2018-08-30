@@ -1,9 +1,6 @@
 # WebsiteScraper
 A website scraper (Node.js)
 
-## Getting Started
-Just a website scraper running in node.js
-
 ### Installing
 Install dependencies :
 ```
@@ -15,6 +12,7 @@ $ sudo npm install website-scraper
 $ node scrap.js [url]
 ```
 You need to include protocole in url (http:// or https://)
+The folder will be created where the script was launched.
 
 ## Authors
 
