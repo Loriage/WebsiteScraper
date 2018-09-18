@@ -2,7 +2,6 @@ if (!process.argv[2]) {
  	console.log('Usage : ./executable URL');
  	process.exit(1)
 }
-
 const scrap = require('website-scraper');
 const websiteUrl = process.argv[2];
 
