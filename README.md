@@ -11,7 +11,7 @@ $ sudo npm install website-scraper
 ```
 $ node scrap.js [url]
 ```
-You need to include protocole in url (http:// or https://)
+You need to include protocole in url (http:// or https://).
 The folder will be created where the script was launched.
 
 ## Authors
